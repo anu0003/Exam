@@ -1,0 +1,9 @@
+.carousel {
+    display: flex;
+    overflow-x: scroll;
+  }
+  .card {
+    min-width: 150px;
+    margin: 0 10px;
+  }
+  
